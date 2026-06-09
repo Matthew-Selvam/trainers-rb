@@ -1,0 +1,11 @@
+# Model outputs
+output/
+
+# Gem artifacts
+*.gem
+pkg/
+
+# Ruby/Bundler
+Gemfile.lock
+vendor/bundle/
+.bundle/
